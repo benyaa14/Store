@@ -1,5 +1,5 @@
 from Customer import *
-#mdmdkdkd
+
 
 class Product:
     def __init__(self, id, name, quantity, price, producer):
