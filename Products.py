@@ -1,6 +1,5 @@
 from Customer import *
 
-
 class Product:
     def __init__(self, id, name, quantity, price, producer):
         self.id = id
